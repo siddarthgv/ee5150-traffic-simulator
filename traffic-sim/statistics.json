@@ -1,0 +1,61 @@
+{
+  "total_generated": 228,
+  "total_arrived": 226,
+  "completion_rate": 0.9912280701754386,
+  "avg_travel_time": 2.672566371681416,
+  "road_throughput": {
+    "H_S14_TL_fwd": 83,
+    "H_S14_TL_bwd": 0,
+    "H_TL_TR_fwd": 29,
+    "H_TL_TR_bwd": 0,
+    "H_TR_K2_fwd": 74,
+    "H_TR_K2_bwd": 0,
+    "H_S25_ML_fwd": 83,
+    "H_S25_ML_bwd": 0,
+    "H_ML_MR_fwd": 29,
+    "H_ML_MR_bwd": 0,
+    "H_MR_S3_fwd": 0,
+    "H_MR_S3_bwd": 62,
+    "H_K34_BL_fwd": 0,
+    "H_K34_BL_bwd": 83,
+    "H_BL_BR_fwd": 47,
+    "H_BL_BR_bwd": 22,
+    "H_BR_K15_fwd": 69,
+    "H_BR_K15_bwd": 0,
+    "V_TL_ML_fwd": 54,
+    "V_TL_ML_bwd": 0,
+    "V_ML_BL_fwd": 108,
+    "V_ML_BL_bwd": 0,
+    "V_TR_MR_fwd": 0,
+    "V_TR_MR_bwd": 45,
+    "V_MR_BR_fwd": 46,
+    "V_MR_BR_bwd": 0
+  },
+  "junction_wait_steps": {
+    "TL": 0,
+    "TR": 0,
+    "ML": 0,
+    "MR": 0,
+    "BL": 0,
+    "BR": 0
+  },
+  "per_sink": {
+    "K2": {
+      "received": 74,
+      "avg_travel_time": 2.391891891891892
+    },
+    "K1_K5": {
+      "received": 69,
+      "avg_travel_time": 3.0144927536231885
+    },
+    "K3_K4": {
+      "received": 83,
+      "avg_travel_time": 2.63855421686747
+    }
+  },
+  "per_source": {
+    "S1_S4": 83,
+    "S2_S5": 83,
+    "S3": 62
+  }
+}
