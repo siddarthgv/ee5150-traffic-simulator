@@ -1,6 +1,6 @@
 # Traffic Network Simulator
 
-A modular discrete-time traffic simulator for Assignment 6.
+Welcome to the traffic simulator for A6!
 
 ## Project Structure
 
